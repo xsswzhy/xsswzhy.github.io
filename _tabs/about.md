@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<!-- 不是清真出了问题，清真就是问题。-->#   
+<!-- # 不是清真出了问题，清真就是问题。-->   
 <!-- # 不是民委出了问题，民委就是问题。 -->
 
 ![](https://raw.githubusercontent.com/qznswhc/2025pic/main/07/29/20250729190413.jpg)
